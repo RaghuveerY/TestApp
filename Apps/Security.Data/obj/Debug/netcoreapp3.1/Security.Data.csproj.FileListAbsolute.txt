@@ -1,0 +1,13 @@
+E:\Redions\Apps\Security.Data\bin\Debug\netcoreapp3.1\Security.Data.deps.json
+E:\Redions\Apps\Security.Data\bin\Debug\netcoreapp3.1\Security.Data.dll
+E:\Redions\Apps\Security.Data\bin\Debug\netcoreapp3.1\Security.Data.pdb
+E:\Redions\Apps\Security.Data\bin\Debug\netcoreapp3.1\Security.Models.dll
+E:\Redions\Apps\Security.Data\bin\Debug\netcoreapp3.1\Security.Models.pdb
+E:\Redions\Apps\Security.Data\obj\Debug\netcoreapp3.1\Security.Data.csproj.AssemblyReference.cache
+E:\Redions\Apps\Security.Data\obj\Debug\netcoreapp3.1\Security.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Redions\Apps\Security.Data\obj\Debug\netcoreapp3.1\Security.Data.AssemblyInfoInputs.cache
+E:\Redions\Apps\Security.Data\obj\Debug\netcoreapp3.1\Security.Data.AssemblyInfo.cs
+E:\Redions\Apps\Security.Data\obj\Debug\netcoreapp3.1\Security.Data.csproj.CoreCompileInputs.cache
+E:\Redions\Apps\Security.Data\obj\Debug\netcoreapp3.1\Security.Data.csproj.CopyComplete
+E:\Redions\Apps\Security.Data\obj\Debug\netcoreapp3.1\Security.Data.dll
+E:\Redions\Apps\Security.Data\obj\Debug\netcoreapp3.1\Security.Data.pdb

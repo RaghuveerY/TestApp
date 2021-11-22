@@ -1,0 +1,10 @@
+E:\Redions\Apps\Security.Entities\bin\Debug\netcoreapp3.1\Security.Models.deps.json
+E:\Redions\Apps\Security.Entities\bin\Debug\netcoreapp3.1\Security.Models.dll
+E:\Redions\Apps\Security.Entities\bin\Debug\netcoreapp3.1\Security.Models.pdb
+E:\Redions\Apps\Security.Entities\obj\Debug\netcoreapp3.1\Security.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Redions\Apps\Security.Entities\obj\Debug\netcoreapp3.1\Security.Models.AssemblyInfoInputs.cache
+E:\Redions\Apps\Security.Entities\obj\Debug\netcoreapp3.1\Security.Models.AssemblyInfo.cs
+E:\Redions\Apps\Security.Entities\obj\Debug\netcoreapp3.1\Security.Models.csproj.CoreCompileInputs.cache
+E:\Redions\Apps\Security.Entities\obj\Debug\netcoreapp3.1\Security.Models.dll
+E:\Redions\Apps\Security.Entities\obj\Debug\netcoreapp3.1\Security.Models.pdb
+E:\Redions\Apps\Security.Entities\obj\Debug\netcoreapp3.1\Security.Models.csproj.AssemblyReference.cache
